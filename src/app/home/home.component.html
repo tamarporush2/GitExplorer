@@ -1,0 +1,14 @@
+<mat-form-field>
+    <mat-label>search a repository</mat-label>
+    <input matInput type="text" [(ngModel)]="textSearch" (keydown.enter)="onSearch()">
+</mat-form-field>
+<button matButton="filled" type="submit" (click)="onSearch()">search</button>
+<div *ngIf="repoObs$ | async as repos" class="repoList">
+    <div *ngFor="let repo of repos" >
+        <app-card [repository]="repo"></app-card>
+    </div>
+</div>
+<span class="error-msg" *ngIf="errorMsg">{{errorMsg}}</span>
+<button mat-raised-button color="primary" [routerLink]="['/bookmarks']">
+  Bookmarks →
+</button>

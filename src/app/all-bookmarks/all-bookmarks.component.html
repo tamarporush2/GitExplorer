@@ -1,0 +1,6 @@
+<div *ngIf="bookMarksObs$ | async as repos" class="repoList">
+    <div *ngFor="let repo of repos" >
+        <app-card [repository]="repo"></app-card>
+    </div>
+</div>
+<span class="error-msg" *ngIf="errorMsg">{{errorMsg}}</span>

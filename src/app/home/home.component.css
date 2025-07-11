@@ -1,0 +1,8 @@
+.repoList {
+  display: flex;
+  flex-wrap: wrap;
+  div {
+    padding: 1.5rem;
+  }
+}
+ 
