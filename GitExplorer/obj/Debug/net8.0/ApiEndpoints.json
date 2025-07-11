@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "GitExplorer.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GitExplorer.Dto.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GitExplorer.Controllers.BookmarkController",
+    "Method": "GetAll",
+    "RelativePath": "api/Bookmark",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GitExplorer.Controllers.BookmarkController",
+    "Method": "BookmarkRepository",
+    "RelativePath": "api/Bookmark/bookmarkRepo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repo",
+        "Type": "GitExplorer.Dto.RepositoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GitExplorer.Controllers.SearchRepoController",
+    "Method": "GetAll",
+    "RelativePath": "api/SearchRepo/{query}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

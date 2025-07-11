@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\shared\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\shared\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\controllers\\bookmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\controllers\\bookmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\controllers\\searchrepocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\controllers\\searchrepocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\services\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\services\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\services\\bookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\services\\bookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\services\\interfaces\\ibookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\services\\interfaces\\ibookmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\dto\\repositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\dto\\repositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\configuration\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\models\\githubsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\models\\githubsearchresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\services\\interfaces\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\services\\interfaces\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\configuration\\githubapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\configuration\\githubapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|c:\\users\\tamarpo\\desktop\\homework\\server\\gitexplorer\\gitexplorer\\shared\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB515C60-654C-410C-A700-24B8C1405336}|GitExplorer\\GitExplorer.csproj|solutionrelative:gitexplorer\\shared\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookmarkController.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Controllers\\BookmarkController.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Controllers\\BookmarkController.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Controllers\\BookmarkController.cs",
+              "RelativeToolTip": "GitExplorer\\Controllers\\BookmarkController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:00:20.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GitExplorer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:37:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Program.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Program.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Program.cs",
+              "RelativeToolTip": "GitExplorer\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:49:09.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "GitExplorer\\Services\\JwtTokenService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:00:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Shared\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Shared\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Shared\\SessionExtensions.cs",
+              "RelativeToolTip": "GitExplorer\\Shared\\SessionExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:30:36.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\appsettings.json",
+              "RelativeDocumentMoniker": "GitExplorer\\appsettings.json",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\appsettings.json",
+              "RelativeToolTip": "GitExplorer\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T12:24:25.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchRepoController.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Controllers\\SearchRepoController.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Controllers\\SearchRepoController.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Controllers\\SearchRepoController.cs",
+              "RelativeToolTip": "GitExplorer\\Controllers\\SearchRepoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:22:02.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Services\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "GitExplorer\\Services\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:00:33.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookmarkService.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\BookmarkService.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Services\\BookmarkService.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\BookmarkService.cs",
+              "RelativeToolTip": "GitExplorer\\Services\\BookmarkService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:17:54.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "GitExplorer\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:39:58.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookmarkService.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\Interfaces\\IBookmarkService.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Services\\Interfaces\\IBookmarkService.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\Interfaces\\IBookmarkService.cs",
+              "RelativeToolTip": "GitExplorer\\Services\\Interfaces\\IBookmarkService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:17:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGithubService.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\Interfaces\\IGithubService.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Services\\Interfaces\\IGithubService.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\Interfaces\\IGithubService.cs",
+              "RelativeToolTip": "GitExplorer\\Services\\Interfaces\\IGithubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:54:51.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GitHubSearchResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Models\\GitHubSearchResponse.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Models\\GitHubSearchResponse.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Models\\GitHubSearchResponse.cs",
+              "RelativeToolTip": "GitExplorer\\Models\\GitHubSearchResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:08:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GithubService.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\GithubService.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Services\\GithubService.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Services\\GithubService.cs",
+              "RelativeToolTip": "GitExplorer\\Services\\GithubService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:55:03.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Dto\\RepositoryDto.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Dto\\RepositoryDto.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Dto\\RepositoryDto.cs",
+              "RelativeToolTip": "GitExplorer\\Dto\\RepositoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:57:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Configuration\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Configuration\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Configuration\\AutoMapperConfig.cs",
+              "RelativeToolTip": "GitExplorer\\Configuration\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:39:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GitHubApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Configuration\\GitHubApiSettings.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Configuration\\GitHubApiSettings.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Configuration\\GitHubApiSettings.cs",
+              "RelativeToolTip": "GitExplorer\\Configuration\\GitHubApiSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:30:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Shared\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "GitExplorer\\Shared\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\tamarpo\\Desktop\\HomeWork\\server\\GitExplorer\\GitExplorer\\Shared\\ErrorResponse.cs",
+              "RelativeToolTip": "GitExplorer\\Shared\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:10:48.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

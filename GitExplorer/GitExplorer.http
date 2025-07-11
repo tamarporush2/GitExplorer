@@ -1,0 +1,6 @@
+@GitExplorer_HostAddress = http://localhost:5207
+
+GET {{GitExplorer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
